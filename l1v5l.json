@@ -3,14 +3,14 @@
   "description": "@l1v5l",
   "artist": "",
   "author": "",
-  "cover": "https://pin.it/2Oyhsgo",
+  "cover": "blob:https://www.pinterest.com/504c83b8-c3bc-4d72-8a27-0d728d435145",
   "chapters": {
     "1": {
       "title": "EP 1048",
       "volume": "1",
       "last_updated": "1674377092",
       "groups": {
-        "ep 1048": "/proxy/api/imgur.com/a/gzSBXFS"
+        "ep 1048": "/proxy/api/imgur/chapter/gzSBXFS"
       }
     }
   }
